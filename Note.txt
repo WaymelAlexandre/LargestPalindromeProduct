@@ -1,0 +1,17 @@
+
+
+Procee
+
+
+-user choose the range of the numbre
+
+-calcule until max range atteind 
+
+-check is the numbre is palindrome 
+    -save it on list 
+    -dump the rest
+- organiser la list 
+    -pick le bigest 
+    -pick the lowest
+-print the bigest and lowest numbre found  
+        
